@@ -44,5 +44,5 @@ You can download it from:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/market-basket-analysis-apriori.git
+   git clone https://github.com/shahzadmustafa15/market-basket-analysis-apriori.git
    cd market-basket-analysis-apriori
